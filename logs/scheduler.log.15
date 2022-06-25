@@ -1,0 +1,6 @@
+2022-06-11 06:06:07,164 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.fiscal_year.fiscal_year.auto_create_fiscal_year for erp-site
+2022-06-11 06:06:08,839 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.fiscal_year.fiscal_year.auto_create_fiscal_year for erp-site
+2022-06-11 06:06:09,692 INFO scheduler Scheduled Job Start: erpnext.controllers.accounts_controller.update_invoice_status for erp-site
+2022-06-11 06:06:10,599 INFO scheduler Scheduled Job Complete: erpnext.controllers.accounts_controller.update_invoice_status for erp-site
+2022-06-11 06:06:10,886 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.opportunity.opportunity.auto_close_opportunity for erp-site
+2022-06-11 06:06:11,572 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.opportunity.opportunity.auto_close_opportunity for erp-site

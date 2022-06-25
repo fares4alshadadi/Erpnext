@@ -1,0 +1,13 @@
+2022-06-09 20:16:51,213 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 20:16:51,341 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 20:16:51,636 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 20:16:51,751 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 20:16:52,059 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 20:16:52,171 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 20:16:52,537 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 20:16:52,651 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 20:16:53,023 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 20:16:53,149 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 20:16:53,547 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 20:16:53,652 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 20:16:53,930 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site

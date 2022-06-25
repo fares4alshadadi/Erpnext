@@ -1,0 +1,6 @@
+2022-06-12 07:48:45,870 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-12 07:48:46,403 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-12 07:48:46,520 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-12 07:48:46,980 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-12 07:48:47,099 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-12 07:48:47,483 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site

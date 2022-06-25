@@ -1,0 +1,790 @@
+2022-06-09 18:25:45,248 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:26:45,781 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:27:46,447 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:28:46,892 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:28:47,031 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:28:47,698 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:28:47,820 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:28:48,443 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:28:48,569 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:28:49,134 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:28:49,247 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:28:49,722 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:28:49,853 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 18:28:50,199 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 18:28:50,314 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:28:50,632 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:28:50,774 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:28:51,383 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:28:51,501 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:28:51,915 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:28:52,031 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:28:52,442 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:28:52,555 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 18:28:52,879 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 18:29:47,715 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:30:48,159 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for erp-site
+2022-06-09 18:30:48,208 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:30:48,957 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for erp-site
+2022-06-09 18:30:49,158 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 18:30:49,674 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 18:30:49,867 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 18:30:50,565 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 18:30:50,713 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 18:30:51,370 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 18:31:48,784 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:32:49,251 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:32:49,401 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:32:49,830 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:32:49,945 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:32:50,562 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:32:50,691 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:32:51,192 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:32:51,313 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:32:51,955 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:32:52,147 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 18:32:52,448 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 18:32:52,561 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:32:52,850 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:32:52,958 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:32:53,490 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:32:53,609 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:32:54,036 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:32:54,223 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:32:54,668 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:32:54,789 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 18:32:55,129 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 18:33:49,974 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:34:50,441 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:35:51,088 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:36:51,586 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:36:51,689 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:36:52,214 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:36:52,332 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:36:52,977 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:36:53,097 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:36:53,684 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:36:53,807 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:36:54,420 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:36:54,537 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 18:36:54,840 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 18:36:54,955 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:36:55,254 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:36:55,360 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:36:56,047 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:36:56,170 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:36:56,746 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:36:56,863 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:36:57,306 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:36:57,423 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 18:36:57,727 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 18:37:52,243 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:38:52,704 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:39:53,170 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:40:53,622 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:40:53,724 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:40:54,017 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:40:54,125 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:40:54,468 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:40:54,586 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:40:54,904 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:40:55,015 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:40:55,431 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:40:55,536 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 18:40:55,817 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 18:40:55,936 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:40:56,206 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:40:56,330 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:40:56,679 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:40:56,796 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:40:57,215 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:40:57,329 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:40:57,730 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:40:57,846 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 18:40:58,206 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 18:41:54,328 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:42:54,850 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:43:55,585 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:44:56,048 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:44:56,159 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:44:56,703 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:44:56,850 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:44:57,475 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:44:57,606 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:44:58,207 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:44:58,322 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:44:58,965 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:44:59,111 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 18:44:59,394 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 18:44:59,519 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:44:59,911 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:45:00,050 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:45:00,621 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:45:00,729 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:45:01,327 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:45:01,459 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:45:01,915 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:45:02,026 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 18:45:02,318 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 18:45:56,941 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:46:13,905 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 18:46:14,580 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 18:46:14,767 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 18:46:15,513 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 18:46:15,727 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 18:46:16,329 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 18:46:57,660 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:47:58,148 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:48:58,575 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:48:58,684 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:48:59,125 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:48:59,230 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:48:59,779 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:48:59,896 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:49:00,394 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:49:00,523 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:49:01,126 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:49:01,238 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 18:49:01,534 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 18:49:01,672 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:49:01,988 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:49:02,104 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:49:02,617 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:49:02,739 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:49:03,290 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:49:03,407 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:49:03,836 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:49:03,946 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 18:49:04,260 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 18:49:59,225 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:50:59,707 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:52:00,154 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:52:00,251 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:52:00,483 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:52:00,595 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:52:00,954 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:52:01,079 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:52:01,405 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:52:01,515 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:52:01,977 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:52:02,088 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 18:52:02,386 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 18:52:02,504 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:52:02,819 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:52:02,926 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:52:03,277 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:52:03,395 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:52:03,800 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:52:03,928 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:52:04,379 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:52:04,499 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 18:52:04,786 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 18:53:00,796 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:54:01,265 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:55:01,742 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:56:02,187 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:56:02,323 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:56:02,563 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 18:56:02,675 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:56:03,015 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 18:56:03,124 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:56:03,490 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 18:56:03,606 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:56:04,096 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 18:56:04,208 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 18:56:04,492 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 18:56:04,614 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:56:04,984 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 18:56:05,103 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:56:05,465 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 18:56:05,582 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:56:05,977 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 18:56:06,099 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:56:06,545 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 18:56:06,659 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 18:56:07,002 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 18:57:02,996 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:58:03,508 DEBUG scheduler Queued events for site erp-site
+2022-06-09 18:59:03,958 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:00:04,258 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for erp-site
+2022-06-09 19:00:04,430 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for erp-site
+2022-06-09 19:00:05,176 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:00:05,193 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for erp-site
+2022-06-09 19:00:05,452 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for erp-site
+2022-06-09 19:00:05,747 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for erp-site
+2022-06-09 19:00:06,378 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for erp-site
+2022-06-09 19:00:06,539 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for erp-site
+2022-06-09 19:00:07,118 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for erp-site
+2022-06-09 19:00:07,312 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.collect_project_status for erp-site
+2022-06-09 19:00:07,940 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.collect_project_status for erp-site
+2022-06-09 19:00:08,131 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.hourly_reminder for erp-site
+2022-06-09 19:00:08,725 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.hourly_reminder for erp-site
+2022-06-09 19:00:08,912 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for erp-site
+2022-06-09 19:00:09,555 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for erp-site
+2022-06-09 19:00:09,830 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for erp-site
+2022-06-09 19:00:10,430 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for erp-site
+2022-06-09 19:00:10,590 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for erp-site
+2022-06-09 19:00:11,071 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for erp-site
+2022-06-09 19:00:11,226 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for erp-site
+2022-06-09 19:00:11,795 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for erp-site
+2022-06-09 19:00:11,941 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for erp-site
+2022-06-09 19:00:12,425 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for erp-site
+2022-06-09 19:00:12,581 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:00:12,922 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:00:13,045 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:00:13,421 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:00:13,537 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:00:14,083 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:00:14,188 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:00:14,637 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:00:14,743 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for erp-site
+2022-06-09 19:00:15,402 INFO scheduler Scheduled Job Failed: erpnext.utilities.doctype.video.video.update_youtube_data for erp-site
+2022-06-09 19:00:15,605 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for erp-site
+2022-06-09 19:00:16,302 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for erp-site
+2022-06-09 19:00:16,473 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for erp-site
+2022-06-09 19:00:17,073 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for erp-site
+2022-06-09 19:00:17,239 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for erp-site
+2022-06-09 19:00:17,824 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for erp-site
+2022-06-09 19:00:17,994 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for erp-site
+2022-06-09 19:00:18,831 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for erp-site
+2022-06-09 19:00:18,998 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for erp-site
+2022-06-09 19:00:19,471 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for erp-site
+2022-06-09 19:00:19,632 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for erp-site
+2022-06-09 19:00:20,048 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for erp-site
+2022-06-09 19:00:20,210 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for erp-site
+2022-06-09 19:00:20,664 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for erp-site
+2022-06-09 19:00:20,811 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for erp-site
+2022-06-09 19:00:21,333 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for erp-site
+2022-06-09 19:00:21,492 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 19:00:21,765 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 19:00:21,871 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:00:22,188 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:00:22,305 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:00:22,621 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:00:22,732 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:00:23,172 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:00:23,289 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:00:23,653 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:00:23,782 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 19:00:24,102 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 19:00:24,213 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 19:00:24,690 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 19:00:24,854 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 19:00:25,464 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 19:00:25,696 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 19:00:26,276 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 19:01:05,739 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:02:06,201 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:03:06,741 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:04:07,355 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:04:07,496 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:04:07,960 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:04:08,089 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:04:08,692 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:04:08,803 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:04:09,283 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:04:09,398 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:04:10,028 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:04:10,137 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 19:04:10,418 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 19:04:10,538 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:04:10,881 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:04:10,988 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:04:11,516 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:04:11,630 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:04:12,167 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:04:12,286 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:04:12,736 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:04:12,857 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 19:04:13,163 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 19:05:08,039 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:06:08,511 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:07:09,093 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:08:09,660 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:08:09,877 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:08:10,277 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:08:10,401 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:08:10,832 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:08:10,943 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:08:11,338 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:08:11,457 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:08:11,933 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:08:12,098 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 19:08:12,587 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 19:08:12,720 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:08:13,085 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:08:13,240 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:08:13,664 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:08:13,788 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:08:14,190 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:08:14,302 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:08:14,673 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:08:14,776 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 19:08:15,050 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 19:09:10,426 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:10:10,912 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:11:11,445 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:12:11,941 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:12:12,168 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:12:12,453 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:12:12,574 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:12:12,976 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:12:13,093 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:12:13,413 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:12:13,548 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:12:14,030 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:12:14,149 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 19:12:14,474 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 19:12:14,589 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:12:14,896 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:12:15,015 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:12:15,369 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:12:15,487 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:12:15,919 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:12:16,106 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:12:16,525 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:12:16,643 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 19:12:16,994 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 19:13:12,726 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:14:13,389 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:15:14,153 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:15:40,506 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 19:15:41,382 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 19:15:41,548 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 19:15:42,191 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 19:15:42,409 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 19:15:43,010 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 19:16:14,604 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:16:14,735 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:16:15,172 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:16:15,293 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:16:15,955 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:16:16,091 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:16:16,661 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:16:16,773 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:16:17,422 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:16:17,535 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 19:16:17,836 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 19:16:17,988 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:16:18,346 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:16:18,507 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:16:19,168 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:16:19,297 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:16:19,827 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:16:19,940 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:16:20,383 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:16:20,496 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 19:16:20,842 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 19:17:15,299 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:18:15,771 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:19:16,264 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:20:16,739 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:20:16,854 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:20:17,095 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:20:17,213 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:20:17,577 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:20:17,689 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:20:18,005 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:20:18,119 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:20:18,550 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:20:18,669 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 19:20:18,931 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 19:20:19,045 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:20:19,348 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:20:19,465 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:20:19,782 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:20:19,893 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:20:20,266 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:20:20,372 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:20:20,781 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:20:20,909 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 19:20:21,230 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 19:21:17,398 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:22:17,877 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:23:18,355 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:24:18,852 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:24:19,061 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:24:19,298 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:24:19,411 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:24:19,773 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:24:19,895 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:24:20,221 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:24:20,331 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:24:20,838 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:24:20,956 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 19:24:21,266 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 19:24:21,384 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:24:21,699 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:24:21,818 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:24:22,157 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:24:22,264 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:24:22,617 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:24:22,739 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:24:23,147 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:24:23,270 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 19:24:23,565 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 19:25:19,598 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:26:20,091 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:27:20,578 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:28:21,024 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:28:21,126 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:28:21,618 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:28:21,733 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:28:22,128 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:28:22,242 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:28:22,592 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:28:22,712 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:28:23,144 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:28:23,252 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 19:28:23,556 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 19:28:23,670 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:28:23,934 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:28:24,039 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:28:24,363 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:28:24,479 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:28:24,874 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:28:24,991 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:28:25,413 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:28:25,531 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 19:28:25,853 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 19:29:21,684 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:30:22,145 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for erp-site
+2022-06-09 19:30:22,205 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:30:22,692 INFO scheduler Scheduled Job Complete: erpnext.utilities.doctype.video.video.update_youtube_data for erp-site
+2022-06-09 19:30:22,859 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 19:30:23,491 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 19:30:23,656 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 19:30:24,208 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 19:30:24,370 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 19:30:24,905 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 19:31:22,751 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:32:23,276 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:32:23,382 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:32:23,858 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:32:23,966 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:32:24,342 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:32:24,460 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:32:24,781 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:32:24,898 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:32:25,361 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:32:25,484 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 19:32:25,751 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 19:32:25,872 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:32:26,163 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:32:26,279 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:32:26,601 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:32:26,718 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:32:27,160 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:32:27,282 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:32:27,693 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:32:27,812 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 19:32:28,107 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 19:33:23,946 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:34:24,429 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:35:24,853 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:36:25,328 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:36:25,471 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:36:25,724 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:36:25,837 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:36:26,185 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:36:26,303 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:36:26,683 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:36:26,789 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:36:27,214 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:36:27,325 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 19:36:27,651 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 19:36:27,759 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:36:28,051 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:36:28,167 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:36:28,523 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:36:28,632 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:36:29,021 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:36:29,131 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:36:29,526 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:36:29,646 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 19:36:29,939 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 19:37:26,033 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:38:26,501 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:39:26,981 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:40:27,452 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:40:27,658 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:40:27,879 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:40:27,989 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:40:28,379 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:40:28,500 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:40:28,861 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:40:28,974 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:40:29,422 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:40:29,538 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 19:40:29,857 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 19:40:29,967 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:40:30,290 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:40:30,408 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:40:30,740 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:40:30,858 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:40:31,263 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:40:31,451 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:40:31,846 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:40:31,969 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 19:40:32,302 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 19:41:28,215 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:42:29,007 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:43:29,516 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:44:29,989 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:44:30,093 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:44:30,572 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:44:30,694 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:44:31,291 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:44:31,396 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:44:31,903 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:44:32,021 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:44:32,631 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:44:32,753 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 19:44:33,057 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 19:44:33,173 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:44:33,480 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:44:33,600 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:44:34,122 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:44:34,267 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:44:34,786 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:44:34,899 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:44:35,362 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:44:35,472 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 19:44:35,813 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 19:45:31,079 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:45:31,159 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 19:45:32,263 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 19:45:32,440 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 19:45:33,192 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 19:45:33,363 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 19:45:34,003 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 19:46:32,011 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:47:32,719 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:48:33,462 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:48:33,606 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:48:34,103 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:48:34,219 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:48:34,770 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:48:34,892 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:48:35,394 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:48:35,515 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:48:36,169 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:48:36,282 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 19:48:36,599 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 19:48:36,719 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:48:37,012 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:48:37,131 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:48:37,707 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:48:37,837 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:48:38,423 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:48:38,545 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:48:38,949 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:48:39,069 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 19:48:39,439 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 19:49:34,462 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:50:34,926 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:51:35,391 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:52:35,850 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:52:35,967 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:52:36,579 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:52:36,709 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:52:37,303 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:52:37,419 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:52:37,952 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:52:38,055 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:52:38,587 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:52:38,731 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 19:52:39,070 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 19:52:39,178 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:52:39,458 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:52:39,591 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:52:40,155 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:52:40,276 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:52:40,912 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:52:41,029 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:52:41,481 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:52:41,603 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 19:52:41,914 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 19:53:36,519 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:54:37,000 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:55:37,513 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:56:37,993 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:56:38,135 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:56:38,399 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 19:56:38,515 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:56:38,903 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 19:56:39,016 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:56:39,354 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 19:56:39,473 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:56:39,920 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 19:56:40,041 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 19:56:40,308 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 19:56:40,418 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:56:40,697 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 19:56:40,811 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:56:41,140 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 19:56:41,249 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:56:41,627 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 19:56:41,748 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:56:42,250 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 19:56:42,366 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 19:56:42,650 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 19:57:38,765 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:58:39,296 DEBUG scheduler Queued events for site erp-site
+2022-06-09 19:59:39,771 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:00:40,091 INFO scheduler Scheduled Job Start: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for erp-site
+2022-06-09 20:00:40,263 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for erp-site
+2022-06-09 20:00:40,852 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:00:40,983 INFO scheduler Scheduled Job Complete: erpnext.stock.doctype.repost_item_valuation.repost_item_valuation.repost_entries for erp-site
+2022-06-09 20:00:41,404 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.connectors.shopify_connection.sync_old_orders for erp-site
+2022-06-09 20:00:41,632 INFO scheduler Scheduled Job Start: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for erp-site
+2022-06-09 20:00:42,389 INFO scheduler Scheduled Job Complete: erpnext.support.doctype.issue.issue.set_service_level_agreement_variance for erp-site
+2022-06-09 20:00:42,562 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for erp-site
+2022-06-09 20:00:43,367 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.shift_type.shift_type.process_auto_attendance_for_all_shifts for erp-site
+2022-06-09 20:00:43,799 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.collect_project_status for erp-site
+2022-06-09 20:00:44,516 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.collect_project_status for erp-site
+2022-06-09 20:00:44,695 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.hourly_reminder for erp-site
+2022-06-09 20:00:45,395 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.hourly_reminder for erp-site
+2022-06-09 20:00:45,548 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for erp-site
+2022-06-09 20:00:46,254 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.plaid_settings.plaid_settings.automatic_synchronization for erp-site
+2022-06-09 20:00:46,464 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for erp-site
+2022-06-09 20:00:47,336 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.gl_entry.gl_entry.rename_gle_sle_docs for erp-site
+2022-06-09 20:00:47,510 INFO scheduler Scheduled Job Start: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for erp-site
+2022-06-09 20:00:48,034 INFO scheduler Scheduled Job Complete: erpnext.erpnext_integrations.doctype.amazon_mws_settings.amazon_mws_settings.schedule_get_order_details for erp-site
+2022-06-09 20:00:48,201 INFO scheduler Scheduled Job Start: erpnext.accounts.doctype.subscription.subscription.process_all for erp-site
+2022-06-09 20:00:49,016 INFO scheduler Scheduled Job Complete: erpnext.accounts.doctype.subscription.subscription.process_all for erp-site
+2022-06-09 20:00:49,177 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for erp-site
+2022-06-09 20:00:49,684 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.daily_work_summary_group.daily_work_summary_group.trigger_emails for erp-site
+2022-06-09 20:00:49,840 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 20:00:50,183 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 20:00:50,301 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 20:00:50,682 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 20:00:50,797 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 20:00:51,163 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 20:00:51,278 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 20:00:51,787 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 20:00:51,959 INFO scheduler Scheduled Job Start: erpnext.utilities.doctype.video.video.update_youtube_data for erp-site
+2022-06-09 20:00:52,939 INFO scheduler Scheduled Job Failed: erpnext.utilities.doctype.video.video.update_youtube_data for erp-site
+2022-06-09 20:00:53,109 INFO scheduler Scheduled Job Start: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for erp-site
+2022-06-09 20:00:53,757 INFO scheduler Scheduled Job Complete: frappe.email.doctype.newsletter.newsletter.send_scheduled_email for erp-site
+2022-06-09 20:00:53,981 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.google_calendar.google_calendar.sync for erp-site
+2022-06-09 20:00:54,785 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.google_calendar.google_calendar.sync for erp-site
+2022-06-09 20:00:55,268 INFO scheduler Scheduled Job Start: frappe.desk.form.document_follow.send_hourly_updates for erp-site
+2022-06-09 20:00:55,956 INFO scheduler Scheduled Job Complete: frappe.desk.form.document_follow.send_hourly_updates for erp-site
+2022-06-09 20:00:56,130 INFO scheduler Scheduled Job Start: frappe.deferred_insert.save_to_db for erp-site
+2022-06-09 20:00:57,505 INFO scheduler Scheduled Job Complete: frappe.deferred_insert.save_to_db for erp-site
+2022-06-09 20:00:57,706 INFO scheduler Scheduled Job Start: frappe.desk.page.backups.backups.delete_downloadable_backups for erp-site
+2022-06-09 20:00:58,321 INFO scheduler Scheduled Job Complete: frappe.desk.page.backups.backups.delete_downloadable_backups for erp-site
+2022-06-09 20:00:58,487 INFO scheduler Scheduled Job Start: frappe.utils.error.collect_error_snapshots for erp-site
+2022-06-09 20:00:59,003 INFO scheduler Scheduled Job Complete: frappe.utils.error.collect_error_snapshots for erp-site
+2022-06-09 20:00:59,170 INFO scheduler Scheduled Job Start: frappe.model.utils.user_settings.sync_user_settings for erp-site
+2022-06-09 20:00:59,753 INFO scheduler Scheduled Job Complete: frappe.model.utils.user_settings.sync_user_settings for erp-site
+2022-06-09 20:00:59,907 INFO scheduler Scheduled Job Start: frappe.model.utils.link_count.update_link_count for erp-site
+2022-06-09 20:01:00,545 INFO scheduler Scheduled Job Complete: frappe.model.utils.link_count.update_link_count for erp-site
+2022-06-09 20:01:00,726 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 20:01:01,123 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 20:01:01,292 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 20:01:01,655 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 20:01:01,795 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 20:01:02,130 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 20:01:02,237 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 20:01:02,647 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 20:01:02,756 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 20:01:03,410 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 20:01:03,518 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 20:01:03,802 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 20:01:03,918 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 20:01:04,417 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 20:01:04,575 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 20:01:05,204 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 20:01:05,363 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 20:01:05,918 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 20:01:41,451 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:02:41,933 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:03:42,416 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:04:42,869 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 20:04:42,966 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:04:43,246 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 20:04:43,357 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 20:04:43,727 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 20:04:43,838 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 20:04:44,195 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 20:04:44,302 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 20:04:44,755 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 20:04:44,883 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 20:04:45,164 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 20:04:45,284 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 20:04:45,603 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 20:04:45,724 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 20:04:46,133 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 20:04:46,332 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 20:04:46,735 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 20:04:46,862 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 20:04:47,251 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 20:04:47,367 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 20:04:47,665 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 20:05:43,525 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:06:43,991 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:07:44,472 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:08:44,921 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 20:08:45,026 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:08:45,316 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 20:08:45,436 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 20:08:45,869 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 20:08:45,987 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 20:08:46,306 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 20:08:46,423 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 20:08:46,908 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 20:08:47,026 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 20:08:47,338 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 20:08:47,453 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 20:08:47,749 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 20:08:47,859 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 20:08:48,228 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 20:08:48,343 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 20:08:48,762 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 20:08:48,877 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 20:08:49,309 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 20:08:49,427 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 20:08:49,759 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 20:09:45,589 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:10:46,056 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:11:46,535 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:12:46,979 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 20:12:47,097 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:12:47,343 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 20:12:47,454 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 20:12:47,802 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 20:12:47,912 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 20:12:48,273 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 20:12:48,391 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 20:12:48,870 INFO scheduler Scheduled Job Complete: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site
+2022-06-09 20:12:48,989 INFO scheduler Scheduled Job Start: frappe.monitor.flush for erp-site
+2022-06-09 20:12:49,297 INFO scheduler Scheduled Job Complete: frappe.monitor.flush for erp-site
+2022-06-09 20:12:49,404 INFO scheduler Scheduled Job Start: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 20:12:49,686 INFO scheduler Scheduled Job Complete: frappe.utils.global_search.sync_global_search for erp-site
+2022-06-09 20:12:49,797 INFO scheduler Scheduled Job Start: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 20:12:50,118 INFO scheduler Scheduled Job Complete: frappe.integrations.doctype.razorpay_settings.razorpay_settings.capture_payment for erp-site
+2022-06-09 20:12:50,224 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 20:12:50,696 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.notify_unreplied for erp-site
+2022-06-09 20:12:50,811 INFO scheduler Scheduled Job Start: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 20:12:51,234 INFO scheduler Scheduled Job Complete: frappe.email.doctype.email_account.email_account.pull for erp-site
+2022-06-09 20:12:51,353 INFO scheduler Scheduled Job Start: frappe.email.queue.flush for erp-site
+2022-06-09 20:12:51,663 INFO scheduler Scheduled Job Complete: frappe.email.queue.flush for erp-site
+2022-06-09 20:13:47,622 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:14:48,063 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:15:48,565 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:15:48,641 INFO scheduler Scheduled Job Start: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 20:15:49,160 INFO scheduler Scheduled Job Complete: frappe.twofactor.delete_all_barcodes_for_users for erp-site
+2022-06-09 20:15:49,321 INFO scheduler Scheduled Job Start: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 20:15:49,855 INFO scheduler Scheduled Job Complete: frappe.website.doctype.web_page.web_page.check_publish_status for erp-site
+2022-06-09 20:15:50,010 INFO scheduler Scheduled Job Start: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 20:15:50,482 INFO scheduler Scheduled Job Complete: frappe.oauth.delete_oauth2_data for erp-site
+2022-06-09 20:16:49,071 INFO scheduler Scheduled Job Start: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 20:16:49,236 DEBUG scheduler Queued events for site erp-site
+2022-06-09 20:16:49,710 INFO scheduler Scheduled Job Complete: erpnext.crm.doctype.social_media_post.social_media_post.process_scheduled_social_media_posts for erp-site
+2022-06-09 20:16:49,820 INFO scheduler Scheduled Job Start: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 20:16:50,192 INFO scheduler Scheduled Job Complete: erpnext.hr.doctype.interview.interview.send_interview_reminder for erp-site
+2022-06-09 20:16:50,313 INFO scheduler Scheduled Job Start: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 20:16:50,621 INFO scheduler Scheduled Job Complete: erpnext.healthcare.doctype.patient_appointment.patient_appointment.send_appointment_reminder for erp-site
+2022-06-09 20:16:50,739 INFO scheduler Scheduled Job Start: erpnext.projects.doctype.project.project.project_status_update_reminder for erp-site

@@ -1,0 +1,149 @@
+2022-05-28 06:23:10,223 ERROR frappe Could not take error snapshot: characters_written
+Site: erp-site
+Form Dict: {'args': '{"language":"English (United States)","country":"Yemen","timezone":"Asia/Aden","currency":"YER","full_name":"Fares Technology","email":"FaresTech@technology.com","password":"772115884fares","domains":["Distribution","Education","Manufacturing","Retail","Services","Agriculture","Healthcare","Non Profit"],"company_name":"Fares-Tech","company_abbr":"FT","company_tagline":"Technology","bank_account":"YKB","chart_of_accounts":"Standard with Numbers","fy_start_date":"2022-06-01","fy_end_date":"2023-05-31"}', 'cmd': 'frappe.desk.page.setup_wizard.setup_wizard.setup_complete'}
+Traceback (most recent call last):
+  File "/home/fares/erpnext/github-v13-bench/apps/frappe/frappe/app.py", line 69, in application
+    response = frappe.api.handle()
+  File "/home/fares/erpnext/github-v13-bench/apps/frappe/frappe/api.py", line 55, in handle
+    return frappe.handler.handle()
+  File "/home/fares/erpnext/github-v13-bench/apps/frappe/frappe/handler.py", line 38, in handle
+    data = execute_cmd(cmd)
+  File "/home/fares/erpnext/github-v13-bench/apps/frappe/frappe/handler.py", line 76, in execute_cmd
+    return frappe.call(method, **frappe.form_dict)
+  File "/home/fares/erpnext/github-v13-bench/apps/frappe/frappe/__init__.py", line 1448, in call
+    return fn(*args, **newargs)
+  File "/home/fares/erpnext/github-v13-bench/apps/frappe/frappe/desk/page/setup_wizard/setup_wizard.py", line 81, in setup_complete
+    run_setup_success(args)
+  File "/home/fares/erpnext/github-v13-bench/apps/frappe/frappe/desk/page/setup_wizard/setup_wizard.py", line 106, in run_setup_success
+    install_fixtures.install()
+  File "/home/fares/erpnext/github-v13-bench/apps/frappe/frappe/desk/page/setup_wizard/install_fixtures.py", line 19, in install
+    sync_dashboards()
+  File "/home/fares/erpnext/github-v13-bench/apps/frappe/frappe/utils/dashboard.py", line 98, in sync_dashboards
+    print("Updating Dashboard for {app}".format(app=app_name))
+BrokenPipeError: [Errno 32] Broken pipe
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/fares/erpnext/github-v13-bench/apps/frappe/frappe/utils/error.py", line 39, in make_error_snapshot
+    snapshot = get_snapshot(exception)
+  File "/home/fares/erpnext/github-v13-bench/apps/frappe/frappe/utils/error.py", line 131, in get_snapshot
+    value = pydoc.text.repr(getattr(evalue, name))
+AttributeError: characters_written
+2022-05-30 07:08:45,077 ERROR frappe New Exception collected with id: 2022-05-30 07:08:44.864975-127.0.0.1-50d
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-05-30 07:10:44,782 ERROR frappe New Exception collected with id: 2022-05-30 07:10:44.735892-127.0.0.1-895
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-05-30 07:11:13,787 ERROR frappe New Exception collected with id: 2022-05-30 07:11:13.725150-127.0.0.1-aad
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-05-30 07:11:28,246 ERROR frappe New Exception collected with id: 2022-05-30 07:11:28.206268-127.0.0.1-0ea
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-05-30 07:18:37,992 ERROR frappe New Exception collected with id: 2022-05-30 07:18:37.547323-127.0.0.1-4f6
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-05-30 07:20:09,049 ERROR frappe New Exception collected with id: 2022-05-30 07:20:08.958447-127.0.0.1-931
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-05-30 07:20:42,845 ERROR frappe New Exception collected with id: 2022-05-30 07:20:42.778506-127.0.0.1-886
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-05-30 07:22:56,949 ERROR frappe New Exception collected with id: 2022-05-30 07:22:56.894205-127.0.0.1-a8f
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-05-30 07:23:24,805 ERROR frappe New Exception collected with id: 2022-05-30 07:23:24.765584-127.0.0.1-0aa
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-05-30 07:29:02,687 ERROR frappe New Exception collected with id: 2022-05-30 07:29:02.510658-127.0.0.1-9ee
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:29:11,579 ERROR frappe New Exception collected with id: 2022-05-30 07:29:11.572740-127.0.0.1-f4d
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:29:36,654 ERROR frappe New Exception collected with id: 2022-05-30 07:29:36.491479-127.0.0.1-0d6
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:29:49,387 ERROR frappe New Exception collected with id: 2022-05-30 07:29:49.380058-127.0.0.1-2f1
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:30:30,898 ERROR frappe New Exception collected with id: 2022-05-30 07:30:30.883272-127.0.0.1-2bd
+Site: erp-site
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Mamber","name":"new-library-mamber-2","__islocal":1,"__unsaved":1,"owner":"Administrator","frist_name":"Fares","last_name":"ALi","email_address":"Fares@gmail.com","phone":"772115884"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2022-05-30 07:30:53,749 ERROR frappe New Exception collected with id: 2022-05-30 07:30:53.617790-127.0.0.1-022
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:32:54,747 ERROR frappe New Exception collected with id: 2022-05-30 07:32:54.602374-127.0.0.1-cbe
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:33:42,413 ERROR frappe New Exception collected with id: 2022-05-30 07:33:42.406764-127.0.0.1-269
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:34:37,864 ERROR frappe New Exception collected with id: 2022-05-30 07:34:37.810921-127.0.0.1-c03
+Site: erp-site
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Mamber","name":"new-library-mamber-1","__islocal":1,"__unsaved":1,"owner":"Administrator","frist_name":"Ali","last_name":"mobark","email_address":"alifaher@gmail.com","phone":"772115884"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2022-05-30 07:34:44,724 ERROR frappe New Exception collected with id: 2022-05-30 07:34:44.717718-127.0.0.1-af1
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:35:25,581 ERROR frappe New Exception collected with id: 2022-05-30 07:35:25.571110-127.0.0.1-c40
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:36:19,821 ERROR frappe New Exception collected with id: 2022-05-30 07:36:19.670152-127.0.0.1-36b
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:37:12,964 ERROR frappe New Exception collected with id: 2022-05-30 07:37:12.950524-127.0.0.1-988
+Site: erp-site
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Mamber","name":"new-library-mamber-1","__islocal":1,"__unsaved":1,"owner":"Administrator","frist_name":"Ali","last_name":"salem saleh","email_address":"faRES@gmail.com","phone":"763821763"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2022-05-30 07:39:25,638 ERROR frappe New Exception collected with id: 2022-05-30 07:39:25.628455-127.0.0.1-c2a
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:41:23,222 ERROR frappe New Exception collected with id: 2022-05-30 07:41:23.213309-127.0.0.1-768
+Site: erp-site
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Mamber","name":"new-library-mamber-1","__islocal":1,"__unsaved":1,"owner":"Administrator","frist_name":"Akram ","last_name":"ALsabri","email_address":"AKram321@gmail.com`","phone":"773344920"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2022-05-30 07:44:14,405 ERROR frappe New Exception collected with id: 2022-05-30 07:44:14.254078-127.0.0.1-0e1
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:47:24,240 ERROR frappe New Exception collected with id: 2022-05-30 07:47:24.232079-127.0.0.1-978
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:48:01,269 ERROR frappe New Exception collected with id: 2022-05-30 07:48:01.261296-127.0.0.1-56a
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:48:50,416 ERROR frappe New Exception collected with id: 2022-05-30 07:48:50.406739-127.0.0.1-e09
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:50:43,407 ERROR frappe New Exception collected with id: 2022-05-30 07:50:43.205259-127.0.0.1-472
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:51:49,539 ERROR frappe New Exception collected with id: 2022-05-30 07:51:49.382228-127.0.0.1-689
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00002', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:51:55,015 ERROR frappe New Exception collected with id: 2022-05-30 07:51:54.983314-127.0.0.1-6fd
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'name': 'LM00001', 'cmd': 'frappe.desk.form.load.getdoc'}
+2022-05-30 07:58:26,398 ERROR frappe New Exception collected with id: 2022-05-30 07:58:26.219127-127.0.0.1-333
+Site: erp-site
+Form Dict: {'doc': '{"docstatus":0,"doctype":"Library Mamber","name":"new-library-mamber-1","__islocal":1,"__unsaved":1,"owner":"Administrator","frist_name":"Fares","last_name":"HAMZA","email_address":"Fare@gmail.com","phone":"772115884"}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2022-05-30 07:58:49,553 ERROR frappe New Exception collected with id: 2022-05-30 07:58:49.541664-127.0.0.1-ded
+Site: erp-site
+Form Dict: {'doc': '{"name":"LM00002","owner":"Administrator","creation":"2022-05-29 16:24:28.595170","modified":"2022-05-29 16:24:28.595170","modified_by":"Administrator","idx":0,"docstatus":0,"frist_name":"Alih","last_name":"Salem","email_address":"ALisalem@gmail.com","phone":"771195504","doctype":"Library Mamber","__last_sync_on":"2022-05-30T07:58:44.866Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2022-05-30 08:00:29,800 ERROR frappe New Exception collected with id: 2022-05-30 08:00:29.788600-127.0.0.1-d29
+Site: erp-site
+Form Dict: {'doc': '{"name":"LM00002","owner":"Administrator","creation":"2022-05-29 16:24:28.595170","modified":"2022-05-29 16:24:28.595170","modified_by":"Administrator","idx":0,"docstatus":0,"frist_name":"Alis","last_name":"Salem","email_address":"ALisalem@gmail.com","phone":"771195504","doctype":"Library Mamber","__last_sync_on":"2022-05-30T08:00:22.521Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2022-05-30 08:00:58,445 ERROR frappe New Exception collected with id: 2022-05-30 08:00:58.435485-127.0.0.1-510
+Site: erp-site
+Form Dict: {'doc': '{"name":"LM00002","owner":"Administrator","creation":"2022-05-29 16:24:28.595170","modified":"2022-05-29 16:24:28.595170","modified_by":"Administrator","idx":0,"docstatus":0,"frist_name":"Alis","last_name":"Salem","email_address":"ALisalem@gmail.com","phone":"771195504","doctype":"Library Mamber","__last_sync_on":"2022-05-30T08:00:22.521Z","__unsaved":1}', 'action': 'Save', 'cmd': 'frappe.desk.form.save.savedocs'}
+2022-05-30 08:01:48,750 ERROR frappe New Exception collected with id: 2022-05-30 08:01:48.535409-127.0.0.1-d41
+Site: erp-site
+Form Dict: {'doctype': 'Library Mamber', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-05-30 18:55:12,627 ERROR frappe New Exception collected with id: 2022-05-30 18:55:12.431124-127.0.0.1-40d
+Site: erp-site
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-05-30 19:00:19,191 ERROR frappe New Exception collected with id: 2022-05-30 19:00:18.934225-127.0.0.1-6e5
+Site: erp-site
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '2022-05-30 14:52:08.926781', 'cmd': 'frappe.desk.form.load.getdoctype'}
+2022-05-30 19:00:53,941 ERROR frappe New Exception collected with id: 2022-05-30 19:00:53.930899-127.0.0.1-87b
+Site: erp-site
+Form Dict: {'doctype': 'Library Membership', 'with_parent': '1', 'cached_timestamp': '2022-05-30 14:52:08.926781', 'cmd': 'frappe.desk.form.load.getdoctype'}

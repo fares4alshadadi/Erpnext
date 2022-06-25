@@ -1,0 +1,390 @@
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220528_113010-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-05-28 11:30:22.460044
+Config  : ./erp-site/private/backups/20220528_113010-erp-site-site_config_backup.json 158.0B
+Database: ./erp-site/private/backups/20220528_113010-erp-site-database.sql.gz         1.3MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220528_150008-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-05-28 15:00:31.467923
+Config  : ./erp-site/private/backups/20220528_150008-erp-site-site_config_backup.json 183.0B
+Database: ./erp-site/private/backups/20220528_150008-erp-site-database.sql.gz         1.3MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220528_210002-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-05-28 21:00:06.687764
+Config  : ./erp-site/private/backups/20220528_210002-erp-site-site_config_backup.json 183.0B
+Database: ./erp-site/private/backups/20220528_210002-erp-site-database.sql.gz         1.4MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220529_090002-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-05-29 09:00:06.420998
+Config  : ./erp-site/private/backups/20220529_090002-erp-site-site_config_backup.json 183.0B
+Database: ./erp-site/private/backups/20220529_090002-erp-site-database.sql.gz         1.4MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220529_150002-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-05-29 15:00:06.097206
+Config  : ./erp-site/private/backups/20220529_150002-erp-site-site_config_backup.json 183.0B
+Database: ./erp-site/private/backups/20220529_150002-erp-site-database.sql.gz         1.4MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220530_090003-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-05-30 09:00:06.995978
+Config  : ./erp-site/private/backups/20220530_090003-erp-site-site_config_backup.json 183.0B
+Database: ./erp-site/private/backups/20220530_090003-erp-site-database.sql.gz         1.4MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220530_150002-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-05-30 15:00:19.574007
+Config  : ./erp-site/private/backups/20220530_150002-erp-site-site_config_backup.json 183.0B
+Database: ./erp-site/private/backups/20220530_150002-erp-site-database.sql.gz         1.4MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220531_150008-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-05-31 15:00:18.797721
+Config  : ./erp-site/private/backups/20220531_150008-erp-site-site_config_backup.json 183.0B
+Database: ./erp-site/private/backups/20220531_150008-erp-site-database.sql.gz         1.4MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220601_113002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-01 11:30:06.796964
+Config  : ./demo.com/private/backups/20220601_113002-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220601_113002-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220531_150008-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220530_150002-erp-site-site_config_backup.json is older than 24 hours
+File ./erp-site/private/backups/20220530_150002-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220531_150008-erp-site-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220601_090006-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-01 09:00:10.125273
+Config  : ./erp-site/private/backups/20220601_090006-erp-site-site_config_backup.json 183.0B
+Database: ./erp-site/private/backups/20220601_090006-erp-site-database.sql.gz         1.4MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220601_173002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-01 17:30:09.161335
+Config  : ./demo.com/private/backups/20220601_173002-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220601_173002-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220531_150008-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220601_090006-erp-site-site_config_backup.json is recent
+File ./erp-site/private/backups/20220601_090006-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220531_150008-erp-site-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220601_150009-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-01 15:00:13.375836
+Config  : ./erp-site/private/backups/20220601_150009-erp-site-site_config_backup.json 183.0B
+Database: ./erp-site/private/backups/20220601_150009-erp-site-database.sql.gz         1.4MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220604_113002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-04 11:30:10.303687
+Config  : ./demo.com/private/backups/20220604_113002-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220604_113002-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220531_150008-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220601_150009-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220601_150009-erp-site-site_config_backup.json is older than 24 hours
+File ./erp-site/private/backups/20220601_090006-erp-site-site_config_backup.json is older than 24 hours
+File ./erp-site/private/backups/20220601_090006-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220531_150008-erp-site-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220604_090010-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-04 09:00:13.764716
+Config  : ./erp-site/private/backups/20220604_090010-erp-site-site_config_backup.json 183.0B
+Database: ./erp-site/private/backups/20220604_090010-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220605_173002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-05 17:30:12.973491
+Config  : ./demo.com/private/backups/20220605_173002-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220605_173002-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220604_090010-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220604_090010-erp-site-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220605_150013-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-05 15:00:40.622617
+Config  : ./erp-site/private/backups/20220605_150013-erp-site-site_config_backup.json 183.0B
+Database: ./erp-site/private/backups/20220605_150013-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220606_173002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-06 17:30:11.554909
+Config  : ./demo.com/private/backups/20220606_173002-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220606_173002-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220605_150013-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220605_150013-erp-site-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220606_150011-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-06 15:00:14.933994
+Config  : ./erp-site/private/backups/20220606_150011-erp-site-site_config_backup.json 183.0B
+Database: ./erp-site/private/backups/20220606_150011-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220607_113002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-07 11:30:03.307899
+Config  : ./demo.com/private/backups/20220607_113002-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220607_113002-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220605_150013-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220606_150011-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220605_150013-erp-site-site_config_backup.json is older than 24 hours
+File ./erp-site/private/backups/20220606_150011-erp-site-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220607_090003-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-07 09:00:06.529435
+Config  : ./erp-site/private/backups/20220607_090003-erp-site-site_config_backup.json 183.0B
+Database: ./erp-site/private/backups/20220607_090003-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220607_173003-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-07 17:30:03.817775
+Config  : ./demo.com/private/backups/20220607_173003-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220607_173003-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220607_090003-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220606_150011-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220607_090003-erp-site-site_config_backup.json is recent
+File ./erp-site/private/backups/20220606_150011-erp-site-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220607_150003-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-07 15:00:07.174166
+Config  : ./erp-site/private/backups/20220607_150003-erp-site-site_config_backup.json 183.0B
+Database: ./erp-site/private/backups/20220607_150003-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220610_173002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-10 17:30:10.482889
+Config  : ./demo.com/private/backups/20220610_173002-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220610_173002-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220609_224051-erp-site-private-files.tar is recent
+File ./erp-site/private/backups/20220609_224051-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220609_224051-erp-site-files.tar is recent
+File ./erp-site/private/backups/20220609_224051-erp-site-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220610_150010-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-10 15:00:13.498056
+Config  : ./erp-site/private/backups/20220610_150010-erp-site-site_config_backup.json 250.0B
+Database: ./erp-site/private/backups/20220610_150010-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220611_113010-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-11 11:30:19.262326
+Config  : ./demo.com/private/backups/20220611_113010-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220611_113010-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220610_150010-erp-site-site_config_backup.json is recent
+File ./erp-site/private/backups/20220609_224051-erp-site-private-files.tar is older than 24 hours
+File ./erp-site/private/backups/20220609_224051-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220610_150010-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220609_224051-erp-site-files.tar is older than 24 hours
+File ./erp-site/private/backups/20220609_224051-erp-site-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220611_090019-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-11 09:00:36.081624
+Config  : ./erp-site/private/backups/20220611_090019-erp-site-site_config_backup.json 250.0B
+Database: ./erp-site/private/backups/20220611_090019-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220611_173004-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-11 17:30:12.669345
+Config  : ./demo.com/private/backups/20220611_173004-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220611_173004-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220610_150010-erp-site-site_config_backup.json is recent
+File ./erp-site/private/backups/20220611_090019-erp-site-site_config_backup.json is recent
+File ./erp-site/private/backups/20220610_150010-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220611_090019-erp-site-database.sql.gz is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220611_150013-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-11 15:00:43.485675
+Config  : ./erp-site/private/backups/20220611_150013-erp-site-site_config_backup.json 250.0B
+Database: ./erp-site/private/backups/20220611_150013-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220612_113016-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-12 11:30:29.431550
+Config  : ./demo.com/private/backups/20220612_113016-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220612_113016-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220610_150010-erp-site-site_config_backup.json is older than 24 hours
+File ./erp-site/private/backups/20220611_090019-erp-site-site_config_backup.json is recent
+File ./erp-site/private/backups/20220610_150010-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220611_150013-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220611_090019-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220611_150013-erp-site-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220612_090029-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-12 09:01:28.194243
+Config  : ./erp-site/private/backups/20220612_090029-erp-site-site_config_backup.json 250.0B
+Database: ./erp-site/private/backups/20220612_090029-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220612_173002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-12 17:30:03.395994
+Config  : ./demo.com/private/backups/20220612_173002-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220612_173002-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220611_090019-erp-site-site_config_backup.json is older than 24 hours
+File ./erp-site/private/backups/20220612_090029-erp-site-site_config_backup.json is recent
+File ./erp-site/private/backups/20220612_090029-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220611_150013-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220611_090019-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220611_150013-erp-site-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220612_150003-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-12 15:00:07.873855
+Config  : ./erp-site/private/backups/20220612_150003-erp-site-site_config_backup.json 250.0B
+Database: ./erp-site/private/backups/20220612_150003-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220613_113002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-13 11:30:03.681217
+Config  : ./demo.com/private/backups/20220613_113002-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220613_113002-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220612_090029-erp-site-site_config_backup.json is recent
+File ./erp-site/private/backups/20220612_150003-erp-site-site_config_backup.json is recent
+File ./erp-site/private/backups/20220612_090029-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220611_150013-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220612_150003-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220611_150013-erp-site-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220613_090003-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-13 09:00:08.142560
+Config  : ./erp-site/private/backups/20220613_090003-erp-site-site_config_backup.json 250.0B
+Database: ./erp-site/private/backups/20220613_090003-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220613_173003-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-13 17:30:04.419769
+Config  : ./demo.com/private/backups/20220613_173003-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220613_173003-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220613_090003-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220612_090029-erp-site-site_config_backup.json is older than 24 hours
+File ./erp-site/private/backups/20220612_150003-erp-site-site_config_backup.json is recent
+File ./erp-site/private/backups/20220612_090029-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220612_150003-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220613_090003-erp-site-site_config_backup.json is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220613_150004-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-13 15:00:09.316900
+Config  : ./erp-site/private/backups/20220613_150004-erp-site-site_config_backup.json 250.0B
+Database: ./erp-site/private/backups/20220613_150004-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220614_113014-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-14 11:30:31.326374
+Config  : ./demo.com/private/backups/20220614_113014-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220614_113014-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220613_090003-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220613_150004-erp-site-site_config_backup.json is recent
+File ./erp-site/private/backups/20220612_150003-erp-site-site_config_backup.json is older than 24 hours
+File ./erp-site/private/backups/20220613_150004-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220612_150003-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220613_090003-erp-site-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220614_090033-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-14 09:01:09.424538
+Config  : ./erp-site/private/backups/20220614_090033-erp-site-site_config_backup.json 250.0B
+Database: ./erp-site/private/backups/20220614_090033-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220614_173002-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-14 17:30:03.321752
+Config  : ./demo.com/private/backups/20220614_173002-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220614_173002-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220613_150004-erp-site-site_config_backup.json is recent
+File ./erp-site/private/backups/20220613_150004-erp-site-database.sql.gz is recent
+File ./erp-site/private/backups/20220614_090033-erp-site-site_config_backup.json is recent
+File ./erp-site/private/backups/20220614_090033-erp-site-database.sql.gz is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220614_150003-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-14 15:00:08.036373
+Config  : ./erp-site/private/backups/20220614_150003-erp-site-site_config_backup.json 250.0B
+Database: ./erp-site/private/backups/20220614_150003-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220615_173014-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-15 17:30:33.607665
+Config  : ./demo.com/private/backups/20220615_173014-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220615_173014-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220613_150004-erp-site-site_config_backup.json is older than 24 hours
+File ./erp-site/private/backups/20220614_150003-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220613_150004-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220614_090033-erp-site-site_config_backup.json is older than 24 hours
+File ./erp-site/private/backups/20220614_090033-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220614_150003-erp-site-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220615_150034-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-15 15:01:26.913383
+Config  : ./erp-site/private/backups/20220615_150034-erp-site-site_config_backup.json 250.0B
+Database: ./erp-site/private/backups/20220615_150034-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220618_173014-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-18 17:30:31.608401
+Config  : ./demo.com/private/backups/20220618_173014-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220618_173014-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220615_150034-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220615_150034-erp-site-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220618_150032-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-18 15:01:23.760167
+Config  : ./erp-site/private/backups/20220618_150032-erp-site-site_config_backup.json 250.0B
+Database: ./erp-site/private/backups/20220618_150032-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220621_173005-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-21 17:30:21.638751
+Config  : ./demo.com/private/backups/20220621_173005-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220621_173005-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220618_150032-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220618_150032-erp-site-site_config_backup.json is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220621_150021-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-21 15:00:26.065722
+Config  : ./erp-site/private/backups/20220621_150021-erp-site-site_config_backup.json 250.0B
+Database: ./erp-site/private/backups/20220621_150021-erp-site-database.sql.gz         1.5MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220622_173005-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-22 17:30:09.813935
+Config  : ./demo.com/private/backups/20220622_173005-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220622_173005-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220621_150021-erp-site-site_config_backup.json is recent
+File ./erp-site/private/backups/20220621_150021-erp-site-database.sql.gz is recent
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220622_150010-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-22 15:00:24.941214
+Config  : ./erp-site/private/backups/20220622_150010-erp-site-site_config_backup.json 250.0B
+Database: ./erp-site/private/backups/20220622_150010-erp-site-database.sql.gz         1.6MiB
+Backup for Site erp-site has been successfully completed
+mysqldump --single-transaction --quick --lock-tables=false -u _4a563bfdd32684ab -p********** _4a563bfdd32684ab -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./demo.com/private/backups/20220625_113022-demo_com-database.sql.gz
+
+Backup Summary for demo.com at 2022-06-25 11:30:44.615417
+Config  : ./demo.com/private/backups/20220625_113022-demo_com-site_config_backup.json 119.0B
+Database: ./demo.com/private/backups/20220625_113022-demo_com-database.sql.gz         236.8KiB
+Backup for Site demo.com has been successfully completed
+File ./erp-site/private/backups/20220622_150010-erp-site-site_config_backup.json is older than 24 hours
+File ./erp-site/private/backups/20220621_150021-erp-site-site_config_backup.json is older than 24 hours
+File ./erp-site/private/backups/20220621_150021-erp-site-database.sql.gz is older than 24 hours
+File ./erp-site/private/backups/20220622_150010-erp-site-database.sql.gz is older than 24 hours
+mysqldump --single-transaction --quick --lock-tables=false -u _8f9d2db059ca9894 -p********** _8f9d2db059ca9894 -h 127.0.0.1 -P 3306   | /usr/bin/gzip >> ./erp-site/private/backups/20220625_090049-erp-site-database.sql.gz
+
+Backup Summary for erp-site at 2022-06-25 09:01:41.910160
+Config  : ./erp-site/private/backups/20220625_090049-erp-site-site_config_backup.json 250.0B
+Database: ./erp-site/private/backups/20220625_090049-erp-site-database.sql.gz         1.6MiB
+Backup for Site erp-site has been successfully completed
